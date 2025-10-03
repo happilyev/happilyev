@@ -1,6 +1,6 @@
 ## Hi there 👋
 ![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=happilyev&show_icons=true&theme=tokyonight)
-[![Solved.ac Profile](http://mazassumnida.wtf/apiv2/generate_badge?boj=happily_ever_after)](https://solved.ac/happily_ever_after)
+[![Solved.ac Profile](http://mazassumnida.wtf/api2/generate_badge?boj=happily_ever_after)](https://solved.ac/happily_ever_after)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=happilyev&layout=compact&theme=merko)
 <!--
 **happilyev/happilyev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
